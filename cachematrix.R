@@ -1,5 +1,5 @@
 ## 18th December.@Sayak Saha.
-
+## Code to cache and access the inverse of a matrix
 ## This function creates a special "matrix" object that can cache its inverse.
 ## This object stores a matrix and its cached inverse
 
